@@ -9474,5 +9474,5 @@ body.okayNav-loaded {
 
 /* for block of code */
 .hljs-ln-code {
-    padding-left: 10px;
+    padding-left: 10px !important;
 }
